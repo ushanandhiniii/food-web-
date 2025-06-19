@@ -1,0 +1,153 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.card-one,
+.card-two,
+.card-three {
+    margin-top: 50px;
+
+}
+
+.card__img,
+.card-one__img,
+.card-two__img,
+.card-three__img {
+    width: 250px;
+    height: 250px;
+}
+
+.card-four {
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: black;
+    color: white;
+    padding: 50px;
+}
+
+.card {
+    width: 250px;
+    height: 380px;
+    background-color: transparent;
+    color: black;
+    border: solid black 2px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+}
+
+.card__button {
+    background-color: black;
+    color: white;
+    border: solid red 2px;
+    padding: 3px;
+    text-align: center;
+}
+
+.card-one {
+
+    width: 250px;
+    height: 380px;
+    background-color: transparent;
+    color: black;
+    border: solid black 2px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    text-align: center;
+
+
+}
+
+.card-one__button {
+    background-color: black;
+    color: white;
+    border: solid red 2px;
+    padding: 3px;
+}
+
+.card-two {
+    width: 250px;
+    height: 380px;
+    background-color: transparent;
+    color: black;
+    border: solid black 2px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.card-two__button {
+    background-color: black;
+    color: white;
+    border: solid red 2px;
+    padding: 3px;
+}
+
+.card-three {
+    width: 250px;
+    height: 380px;
+    background-color: transparent;
+    color: black;
+    border: solid black 2px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    text-align: center;
+
+}
+
+.card-three__button {
+    background-color: black;
+    color: white;
+    border: solid red 2px;
+    padding: 3px;
+
+
+}
+
+.food-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+
+}
+
+.contact-form {
+    text-align: center;
+    display: block;
+    background-color: black;
+    color: white;
+    padding-bottom: 30px;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+
+.contact-form__button{
+
+}
+
+
+
+.contact-form__table {
+    text-align: center;
+    padding-left: 600px;
+    width: 400px;
+
+}
+
+.contact-form__name,
+.contact-form__age,
+.contact-form__email {
+    text-align: center;
+}
